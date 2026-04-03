@@ -159,6 +159,11 @@
           "name": "DefaultMiserable",
           "amount": 7,
           "color": "#fbbf24"
+        },
+        {
+          "name": "ChrisRosario",
+          "amount": 10,
+          "color": "#34d399"
         }
       ],
       "completed": false,
