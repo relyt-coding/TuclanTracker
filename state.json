@@ -116,22 +116,6 @@
       "donationTime": ""
     },
     {
-      "id": 7,
-      "date": "2026--03-26",
-      "time": "20:16",
-      "title": "Untiered Donation",
-      "details": "take my money pls",
-      "segments": [
-        {
-          "name": "DefaultMiserable",
-          "amount": "7"
-        }
-      ],
-      "tierName": "NONE",
-      "completed": true,
-      "requester": "DefaultMiserable"
-    },
-    {
       "id": 8,
       "cap": 125,
       "date": "2026-03-31",
@@ -161,6 +145,46 @@
       "tierName": "WHEEL",
       "completed": true,
       "requester": "CrazyK"
+    },
+    {
+      "id": 3,
+      "tierName": "ZOOTR6",
+      "title": "ZOOTR6 FUND",
+      "requester": "Tuclan",
+      "details": "",
+      "date": "2026-04-09",
+      "time": "",
+      "segments": [
+        {
+          "name": "DefaultMiserable",
+          "amount": 7,
+          "color": "#fbbf24"
+        }
+      ],
+      "completed": false,
+      "donationDate": "2026-04-09",
+      "donationTime": "",
+      "cap": 2500
+    },
+    {
+      "id": 4,
+      "tierName": "GAME",
+      "title": "Smushi Come Home",
+      "requester": "SurfClay",
+      "details": "",
+      "date": "2026-04-06",
+      "time": "",
+      "segments": [
+        {
+          "name": "SurfClay",
+          "amount": 125,
+          "color": "#38bdf8"
+        }
+      ],
+      "completed": false,
+      "donationDate": "2026-04-02",
+      "donationTime": "",
+      "cap": 125
     }
   ],
   "wheelRequests": [
@@ -2913,7 +2937,7 @@
   ],
   "goal": 7500,
   "stretchGoals": [],
-  "idRefCurrent": 3,
+  "idRefCurrent": 5,
   "historyRowsExtra": {
     "Subathon #1": [
       {
