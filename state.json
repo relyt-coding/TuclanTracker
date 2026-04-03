@@ -91,7 +91,7 @@
       "details": "Wheel spin request",
       "segments": [],
       "tierName": "WHEEL",
-      "completed": false,
+      "completed": true,
       "requester": "Brondo93"
     },
     {
@@ -100,7 +100,7 @@
       "date": "2026-03-31",
       "time": "20:14",
       "title": "Wario Land 3",
-      "amount": 5,
+      "amount": 125,
       "details": "",
       "segments": [
         {
@@ -110,8 +110,10 @@
         }
       ],
       "tierName": "GAME",
-      "completed": false,
-      "requester": "MantisSlantis"
+      "completed": true,
+      "requester": "MantisSlantis",
+      "donationDate": "",
+      "donationTime": ""
     },
     {
       "id": 7,
@@ -157,7 +159,7 @@
       "details": "Wheel spin request",
       "segments": [],
       "tierName": "WHEEL",
-      "completed": false,
+      "completed": true,
       "requester": "CrazyK"
     }
   ],
