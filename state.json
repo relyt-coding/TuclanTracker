@@ -157,57 +157,20 @@
       "donationTime": "",
       "amount": 200,
       "cap": 125
+    },
+    {
+      "id": 7,
+      "tierName": "WHEEL",
+      "title": "Yoshi's Wooly World",
+      "requester": "StellarEvie",
+      "details": "Won the wheel spin",
+      "date": "4/5/2026",
+      "time": "",
+      "segments": [],
+      "completed": false
     }
   ],
   "wheelRequests": [
-    {
-      "id": 1774579420117,
-      "name": "Paper Mario: Thousand Year Door",
-      "addedAt": "2026--03-26",
-      "donator": "Brondo93"
-    },
-    {
-      "id": 1774672679765,
-      "name": "WideWheel",
-      "addedAt": "2026--03-27",
-      "donator": "CrazyK"
-    },
-    {
-      "id": 1775441086872,
-      "name": "Kingdom Hearts",
-      "donator": "TripleStarbeam",
-      "addedAt": "4/5/2026"
-    },
-    {
-      "id": 1775441095803,
-      "name": "Kingdom Hearts",
-      "donator": "TripleStarbeam",
-      "addedAt": "4/5/2026"
-    },
-    {
-      "id": 1775441126239,
-      "name": "Kingdom Hearts",
-      "donator": "TripleStarbeam",
-      "addedAt": "4/5/2026"
-    },
-    {
-      "id": 1775441135431,
-      "name": "Kingdom Hearts",
-      "donator": "TripleStarbeam",
-      "addedAt": "4/5/2026"
-    },
-    {
-      "id": 1775441164725,
-      "name": "Kingdom Hearts",
-      "donator": "TripleStarbeam",
-      "addedAt": "4/5/2026"
-    },
-    {
-      "id": 1775441232639,
-      "name": "Yoshi's Wooly World",
-      "donator": "StellarEvie",
-      "addedAt": "4/5/2026"
-    },
     {
       "id": 1775441246919,
       "name": "Yoshi's Wooly World",
@@ -215,7 +178,57 @@
       "addedAt": "4/5/2026"
     }
   ],
-  "wheelCompiler": [],
+  "wheelCompiler": [
+    {
+      "id": 1774579420117,
+      "name": "Paper Mario: Thousand Year Door",
+      "addedAt": "2026--03-26",
+      "donator": "Brondo93",
+      "compiledAt": "4/5/2026"
+    },
+    {
+      "id": 1774672679765,
+      "name": "WideWheel",
+      "addedAt": "2026--03-27",
+      "donator": "CrazyK",
+      "compiledAt": "4/5/2026"
+    },
+    {
+      "id": 1775441086872,
+      "name": "Kingdom Hearts",
+      "donator": "TripleStarbeam",
+      "addedAt": "4/5/2026",
+      "compiledAt": "4/5/2026"
+    },
+    {
+      "id": 1775441095803,
+      "name": "Kingdom Hearts",
+      "donator": "TripleStarbeam",
+      "addedAt": "4/5/2026",
+      "compiledAt": "4/5/2026"
+    },
+    {
+      "id": 1775441126239,
+      "name": "Kingdom Hearts",
+      "donator": "TripleStarbeam",
+      "addedAt": "4/5/2026",
+      "compiledAt": "4/5/2026"
+    },
+    {
+      "id": 1775441135431,
+      "name": "Kingdom Hearts",
+      "donator": "TripleStarbeam",
+      "addedAt": "4/5/2026",
+      "compiledAt": "4/5/2026"
+    },
+    {
+      "id": 1775441164725,
+      "name": "Kingdom Hearts",
+      "donator": "TripleStarbeam",
+      "addedAt": "4/5/2026",
+      "compiledAt": "4/5/2026"
+    }
+  ],
   "wheelSpinHistory": [
     {
       "id": 1774556384314,
@@ -233,6 +246,23 @@
       "winner": "asdf",
       "batchLabel": "",
       "winnerDonator": "asdf"
+    },
+    {
+      "id": 1775442731951,
+      "date": "4/5/2026",
+      "batchLabel": "",
+      "winner": "Yoshi's Wooly World",
+      "winnerDonator": "StellarEvie",
+      "losers": [
+        "Paper Mario: Thousand Year Door",
+        "WideWheel",
+        "Kingdom Hearts",
+        "Kingdom Hearts",
+        "Kingdom Hearts",
+        "Kingdom Hearts",
+        "Kingdom Hearts"
+      ],
+      "games": ""
     }
   ],
   "wheelQueue": [],
@@ -2951,7 +2981,7 @@
   ],
   "goal": 7500,
   "stretchGoals": [],
-  "idRefCurrent": 7,
+  "idRefCurrent": 8,
   "historyRowsExtra": {
     "Subathon #1": [
       {
